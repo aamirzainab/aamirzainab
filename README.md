@@ -2,7 +2,7 @@
 
 I'm Zainab, CS PhD candidate at Stony Brook University 🎓, in the Center for Visual Computing with Arie Kaufman.
 
-🔬 My PhD work sits at the intersection of **immersive visualization, HCI, ML and AI**. I build large-scale display systems and XR interfaces, and use ML models and LLM-assisted analytics to make what happens inside them interpretable.
+🔬 My PhD work sits at the intersection of **immersive visualization, HCI, ML and AI**. I build large-scale display systems and XR interfaces, and use multimodal ML models and AI-assisted analytics to make what happens inside them interpretable.
 
 🏭 Currently a **Multimodal Generative AI Research Intern at GE Vernova**. Previously Machine Learning Engineer Intern at **Reddit** (Core Ads Ranking).
 
